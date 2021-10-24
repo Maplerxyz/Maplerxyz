@@ -17,6 +17,6 @@
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12olcanmmfjzz6bk9k37xw23f)
 
 ---
-### I am currently working on:
-[![A Useless Bot](https://github.com/Maplerxyz/A-Useless-Bot)
+### Stay tuned!
+More open source projects are coming to my github like: [A Useless Bot](https://github.com/Maplerxyz/A-Useless-Bot)!
 
