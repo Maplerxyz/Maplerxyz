@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" height="160px" src="https://avatars.githubusercontent.com/u/76017463?v=4" />
 
 - 🏆 Goals For This Year: Create more open source projects
-- 📫 Best way to contact me: Discord (Mapler#0001)
+- 📫 Best way to contact me: Discord (Vaxus#0001)
 - 😄 Pronouns: He/Him
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maplerxyz)
