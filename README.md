@@ -14,6 +14,7 @@
 
 ### Spotify Playing 🎧
 I listen to a lot of weird stuff, sorry not sorry.
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12olcanmmfjzz6bk9k37xw23f)
 
 ---
