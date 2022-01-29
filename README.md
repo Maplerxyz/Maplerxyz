@@ -7,7 +7,7 @@
 
 <div align="center">
 <img align="center" src="https://komarev.com/ghpvc/?username=roblox-thot&color=e22319" /><br>
-<img align="center" src="https://discord.c99.nl/widget/theme-2/666731058649366556.png" /><br>
+<img align="center" src=" https://discord.c99.nl/widget/theme-3/666731058649366556.png" /><br>
  View counter for profile and repos that I use: https://yhype.me/
 </div>
 <!--
