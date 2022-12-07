@@ -6,5 +6,4 @@
 <div align="center">
 <h1>I am <strong>Mapler!</strong></h1>
 <h3>I make websites and software!<h3>
-<h5>All projects have been paused to focus on study and work. :)<h5>
 </div>
