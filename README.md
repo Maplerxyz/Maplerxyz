@@ -4,6 +4,6 @@
 <img align="center" src="https://discord.c99.nl/widget/theme-2/744823356712419350.png" /><br>
 </div>
 <div align="center">
-<h1>I am <strong>Mapler!</strong></h1>
+<h1>I am <strong>D10D!</strong></h1>
 <h3>I make websites and software!<h3>
 </div>
