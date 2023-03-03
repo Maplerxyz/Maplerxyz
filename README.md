@@ -5,6 +5,5 @@
 <div align="center">
 <h1>I am <strong>euphoroid!</strong></h1>
 <h3>I make websites and software!<h3>
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+[![maplerxyz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mapler)](https://github.com/maplerxyz/maplerxyz)
 </div>
