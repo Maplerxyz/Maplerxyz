@@ -5,4 +5,6 @@
 <div align="center">
 <h1>I am <strong>euphoroid!</strong></h1>
 <h3>I make websites and software!<h3>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 </div>
